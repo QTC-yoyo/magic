@@ -16,7 +16,7 @@ $(document).ready(function () {
       let menuHTML = `
         <nav class="main-menu">
           <div class="website-name">
-            QTC-yoyo
+            magic
           </div>
 
           <div class="menu-links">
