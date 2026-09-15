@@ -1,19 +1,19 @@
 {
   "menuItems": [
     {
-      "name": "Home",
+      "name": "🏠Home",
       "link": "index.html"
     },
     {
-      "name": "About Me",
+      "name": "👩About Me",
       "link": "about.html"
     },
     {
-      "name": "Achievements",
+      "name": "🏆Achievements",
       "link": "achievement.html"
     },
     {
-      "name": "Contact",
+      "name": "📧Contact",
       "link": "contact.html"
     }
   ]
