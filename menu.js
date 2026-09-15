@@ -9,7 +9,7 @@ $(document).ready(function () {
   }
 
   // Load the navigation information from menu.json.
-  $.getJSON("data/menu.json")
+  $.getJSON("menu.json")
     .done(function (data) {
 
       // Begin creating the navigation.
