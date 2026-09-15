@@ -1,1 +1,21 @@
+{
+  "menuItems": [
+    {
+      "name": "Home",
+      "link": "index.html"
+    },
+    {
+      "name": "About Me",
+      "link": "about.html"
+    },
+    {
+      "name": "Achievements",
+      "link": "achievement.html"
+    },
+    {
+      "name": "Contact",
+      "link": "contact.html"
+    }
+  ]
+}
 
